@@ -1,5 +1,6 @@
 # tour_management
 
+[bandicam 2024-07-21 09-58-26-183.zip](https://github.com/user-attachments/files/16350976/bandicam.2024-07-21.09-58-26-183.zip)
 
 ![register](https://github.com/user-attachments/assets/ff7e3291-ca66-4cfe-863d-eb621d6188a3)
 ![login](https://github.com/user-attachments/assets/88b8410e-16e3-49ed-8d3b-0401f1a0cfe9)
@@ -12,3 +13,4 @@
 ![tor_list](https://github.com/user-attachments/assets/b3fd8887-2c11-4aec-8a2d-d0a625bf8e6b)
 ![booking and review](https://github.com/user-attachments/assets/1a43a0d8-03d2-4efb-89d0-231eeea67525)
 ![about](https://github.com/user-attachments/assets/4338e578-3974-4b8e-b28d-c2745caf21cd)
+
