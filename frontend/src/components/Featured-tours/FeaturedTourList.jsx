@@ -16,7 +16,6 @@ const FeaturedTourList = () => {
       {loading && <h4>Loading........</h4>}
 
       {error && <h4>{error}</h4>}
-      <h1>HELLO</h1>
       {!loading &&
         !error &&
         featuredTours?.map((tour) => (
