@@ -59,6 +59,7 @@ const Register=()=> {
                   <img src={userIcon} alt="" />
                 </div>
                 <h2>Register</h2>
+                <h2>{BASE_URL}</h2>
                 <Form onSubmit={handleClick}>
                   <FormGroup>
                     <input
