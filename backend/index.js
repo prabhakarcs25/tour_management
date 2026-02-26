@@ -15,11 +15,14 @@ import bookingRoute from './routes/booking.js'
 dotenv.config()                           //
 const app=express()                        //
 const port=process.env.PORT ||8000           //
-const corsOptions={
-    origin:true,
-    credentials:true
-}
-
+// const corsOptions={
+//     origin:true,
+//     credentials:true
+// }
+app.use(cors({
+  origin: "https://tour-management-3083.onrender.com", 
+  credentials: true
+}));
 
 
 // database connection
