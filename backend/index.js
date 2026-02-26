@@ -24,6 +24,10 @@ app.use(cors({
   credentials: true
 }));
 
+app.options("*", cors());  // 👈 VERY IMPORTANT
+
+
+
 
 // database connection
 mongoose.set("strictQuery",false)
